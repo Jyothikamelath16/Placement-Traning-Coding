@@ -1,0 +1,6 @@
+ls=[9,6,4,2,3,5,7,0,1]
+n=len(ls)
+sn=(n*(n+1))//2
+sum_ls=sum(ls)
+rslt=sn-sum_ls
+print(rslt)
